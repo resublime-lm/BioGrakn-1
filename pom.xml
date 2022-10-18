@@ -65,7 +65,7 @@
   	<dependency>
   		<groupId>ai.grakn</groupId>
   		<artifactId>grakn-factory</artifactId>
-  		<version>1.2.0</version>
+  		<version>1.4.1</version>
   		  		<exclusions>
   			<exclusion>
   				<groupId>ch.qos.logback</groupId>
