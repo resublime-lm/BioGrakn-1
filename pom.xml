@@ -55,7 +55,7 @@
   	<dependency>
   		<groupId>ai.grakn</groupId>
   		<artifactId>migration-csv</artifactId>
-  		<version>1.2.0</version>
+  		<version>1.4.3</version>
   	</dependency>
   	<dependency>
   		<groupId>commons-cli</groupId>
